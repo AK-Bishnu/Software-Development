@@ -23,9 +23,9 @@ A full-stack e-commerce application developed using Flutter Web, Django REST Fra
 
 **Repository:** [EasyTrade](https://github.com/AK-Bishnu/Easytrade)
 
-### AkTrade
+### Ak Fashion
 Flutter and Django integration projects.
 
-**Repository:** [Flutter-Django](https://github.com/AK-Bishnu/Flutter-Django/tree/main/Ak%20Fashion)
+**Repository:** [Ak Fashion](https://github.com/AK-Bishnu/Flutter-Django/tree/main/Ak%20Fashion)
 
 
