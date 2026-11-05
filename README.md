@@ -15,7 +15,7 @@ A collection of Flutter applications developed for academic, personal, and pract
 
 ---
 
-## 🌐 Full-Stack Development
+## 🌐 Full-Stack Projects
 ### Flutter + Django + MySQL
 
 ### EasyTrade
@@ -28,7 +28,4 @@ Flutter and Django integration projects.
 
 **Repository:** [Flutter-Django](https://github.com/AK-Bishnu/Flutter-Django/tree/main/Ak%20Fashion)
 
----
 
-
-*More projects coming soon.*
